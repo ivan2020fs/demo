@@ -1,0 +1,5 @@
+[2020-11-26 21:31:19.825] - ???? INFORMACIÓN [Test worker] --- logtitlename: mensaje 1
+[2020-11-26 21:31:58.651] - ???? INFORMACIÓN [Test worker] --- logtitlename: mensaje 1
+[2020-11-26 21:33:08.604] - ???? INFORMACIÓN [Test worker] --- logtitlename: mensaje 1
+[2020-11-26 21:33:08.678] - ???? ADVERTENCIA [Test worker] --- logtitlename: mensaje 2
+[2020-11-26 21:33:08.693] - ???? GRAVE [Test worker] --- logtitlename: mensaje 4

@@ -1,0 +1,6 @@
+[2020-11-26 18:40:57.636] - 14084 INFORMACIÓN [http-nio-8080-exec-2] --- Rebels Log: Buscando en la base de datos
+[2020-11-26 18:41:12.660] - 14084 INFORMACIÓN [http-nio-8080-exec-3] --- Rebels Log: Buscando en la base de datos
+[2020-11-26 18:41:13.615] - 14084 INFORMACIÓN [http-nio-8080-exec-4] --- Rebels Log: Buscando en la base de datos
+[2020-11-26 18:41:17.982] - 14084 INFORMACIÓN [http-nio-8080-exec-5] --- Rebels Log: Resgistrando [rebel fulcrum2 on coruscant2 at Thu Nov 26 18:41:17 CET 2020
+] en la base de datos
+[2020-11-26 18:41:23.029] - 14084 INFORMACIÓN [http-nio-8080-exec-6] --- Rebels Log: Buscando en la base de datos
